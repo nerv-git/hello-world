@@ -1,3 +1,4 @@
+version new
 mydata <- read.csv("halbtrockenrasen2.csv", sep=";")
 
 #1
